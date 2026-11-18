@@ -1,0 +1,28 @@
+package com.ggez.keyboard
+
+object GgezPrefs {
+    const val FILE = "ggez_settings"
+    const val MODE = "mode"
+    const val AUTO_CODE = "auto_code"
+    const val AUTO_CAPS = "auto_caps"
+    const val AUTOCORRECT = "autocorrect"
+    const val SUGGESTIONS = "suggestions"
+    const val SIZE = "size"
+    const val TRANSPARENCY = "transparency"
+    const val FONT_SIZE = "font_size"
+    const val LAYOUT = "layout"
+    const val LANGUAGE = "language"
+    const val CODE_LANGUAGE = "code_language"
+    const val FONT_FAMILY = "font_family"
+    const val PLUGIN_NAME = "plugin_name"
+    const val PLUGIN_WORDS = "plugin_words"
+    const val PLUGIN_SNIPPETS = "plugin_snippets"
+    const val PLUGIN_THEME = "plugin_theme"
+    const val TRANSLATE_ENDPOINT = "translate_endpoint"
+    const val TRANSLATE_KEY = "translate_key"
+    const val TRANSLATE_SOURCE = "translate_source"
+    const val TRANSLATE_TARGET = "translate_target"
+    const val TRANSLATE_DRAFT = "translate_draft"
+    const val IMAGE_URI = "image_uri"
+    const val OWNER_VERIFIED = "owner_verified"
+}

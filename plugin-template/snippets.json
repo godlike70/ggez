@@ -1,0 +1,6 @@
+{
+  "clog": "console.log()",
+  "pydef": "def function_name():",
+  "kfun": "fun functionName() {\n}",
+  "html5": "<!DOCTYPE html>"
+}
